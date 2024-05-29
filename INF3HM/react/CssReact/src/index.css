@@ -1,0 +1,12 @@
+/* Configuração Globais do Aplicativo */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  background-color: yellow;
+}

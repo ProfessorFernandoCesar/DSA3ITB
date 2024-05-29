@@ -1,0 +1,29 @@
+/* Configurações Glabais */
+
+body {
+  margin : 0 ;
+  padding: 0;
+  font-family: Helvetica;
+}
+
+h1 {
+  color: red;
+  background-color: black;
+}
+
+.meuTitulo {
+  color : white;
+  background: black;
+}
+
+.warning {
+  color : black ;
+  background-color: yellow;
+}
+
+.error {
+  color : black;
+  background-color: red;
+}
+
+
